@@ -1,3 +1,5 @@
+WARNING: Please read the licence.txt file VERY carefully
+
 General
 
 Thanks for downloading this, it means a lot, if you find any problems just post on github

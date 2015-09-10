@@ -1,0 +1,16 @@
+<?php
+include "config.php";
+
+// sql to create table
+
+$sql = "ALTER TABLE `usr` ADD UNIQUE(`email`)";
+
+
+if ($conn->query($sql) === TRUE) {
+    <meta http-equiv="refresh" content="0; url=fix2.php" />
+} else {
+    echo "<h1 style='color:red; font-family:sans-serif;'>Error setting up" . $conn->error."</h1>";
+}
+
+$conn->close();
+

@@ -10,8 +10,17 @@ Updates will come out regularly (hopefully) adding more and more exciting featur
 
 Coming to V1.2a
 
-Brand new settings tab
-Logout text changed to picture
+Commands to settings tab
+- Change name and delete account
+
+———————————————————————————————————————————
+
+Coming to V1.1b
+
+New settings tab 
+
+Logout text changed to icon
+
 
 ——————————————————————————————————————————————————————————————————————————————
 

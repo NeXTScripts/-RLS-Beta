@@ -8,6 +8,13 @@ Updates will come out regularly (hopefully) adding more and more exciting featur
 
 ——————————————————————————————————————————————————————————————————————————————
 
+Coming to V1.2a
+
+Brand new settings tab
+Logout text changed to picture
+
+——————————————————————————————————————————————————————————————————————————————
+
 Change Log
 
 — Changed Cookies to sessions —

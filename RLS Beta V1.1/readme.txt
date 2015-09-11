@@ -17,6 +17,10 @@ Commands to settings tab
 
 Coming to V1.1b
 
+ESSENTIAL UPGRADE:
+Updated membersarea.php to require the session
+— This adds the capability to goto a different page while staying logged in
+
 New settings tab 
 
 Logout text changed to icon
